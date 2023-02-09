@@ -1,1 +1,3 @@
 Mateo Álvarez, 18 años y mis aspiraciones con la materia es aprender y dominar los fundamentos de la programación orientada a objetos :)
+Supongo que se debía a que la carpeta estaba vacía y por eso no daba para hacer el commit, pero yo leí mal las instrucciones y por eso no me paso el error
+
