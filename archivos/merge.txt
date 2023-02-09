@@ -1,0 +1,1 @@
+Supongo que se debía a que la carpeta estaba vacía y por eso no daba para hacer el commit, pero yo leí mal las instrucciones y por eso no me paso el error
